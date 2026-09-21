@@ -4,5 +4,4 @@ dist/
 build/
 *.log
 .env
-agents/
-*.agent.md
+.agents/
